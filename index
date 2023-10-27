@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About My Cat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f2f2f2;
+        }
+        img {
+            max-width: 300px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Logan</h1>
+        <img src=logan.jpg alt="[Cat's Name]">
+        <p><strong>Breed:</strong> Machoque Iberico</p>
+               <p><strong>Favorite Activities:</strong> Cagar no Chao</p>
+        <p>Bater no didi</p>
+    </div>
+</body>
+</html>
